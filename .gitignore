@@ -1,0 +1,6 @@
+.DS_Store
+.Trash/
+Library/Saved Application State/
+*.ipynb_checkpoints
+.config/
+myenv/
